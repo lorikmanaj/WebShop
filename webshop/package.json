@@ -18,6 +18,12 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
+    "name": "webshop",
+    "version": "0.0.1",
+    "env": {
+      "browser": true,
+      "node": true
+    },
     "extends": [
       "react-app",
       "react-app/jest"
